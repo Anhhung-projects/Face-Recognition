@@ -1,7 +1,12 @@
 # Face-Recognition
-Mô hình phát hiện giới tính thông qua hình ảnh khuôn mặt
+Mô hình phát hiện khuôn mặt đồng thời phân lớp giới tính từ hình ảnh khuôn mặt phát hiện được
 
 Độ chính xác: 85.69%
+
+## Thư viện hỗ trợ xây dựng model
+- TensorFlow
+- OpenCV
+- MediaPipe
 
 ## Kết quả chạy kiểm tra mô hình
 ### Phát hiện giới tính Nữ
